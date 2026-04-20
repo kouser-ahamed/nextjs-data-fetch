@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const Header = () => {
 
 
@@ -5,10 +7,10 @@ const Header = () => {
 
 
         <li>
-            <a>Item 51</a>
+            <Link href="/">Home</Link>  
         </li>
         <li>
-            <a>Item 53</a>
+           <Link href="/posts">Posts</Link>
         </li>
 
 
