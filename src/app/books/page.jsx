@@ -27,7 +27,7 @@ import BookCard from "@/components/BookCard";
 
 const BooksPage = async () => {
   const res = await fetch("http://localhost:5000/books", {
-    cache: "no-store",
+    cache: "force-cache",
   });
   const books = await res.json();
   console.log(books);
