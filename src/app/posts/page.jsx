@@ -16,6 +16,16 @@
 //   }
 // };
 
+// method 4
+
+const getPosts = async () => {
+  const res = await fetch("https://jsonplaceholder.typicode.com/posts");
+  return res.json();
+  if (!res.ok) {
+    throw new Error("Fail to fetch posts");
+  }
+};
+
 const PostsPage = async () => {
   // method 2
 
