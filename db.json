@@ -33,7 +33,7 @@
     {
       "id": 4,
       "name": "Bluetooth Speaker",
-      "price": 1800,
+      "price": 2500,
       "category": "Electronics",
       "description": "Portable bluetooth speaker with deep bass sound.",
       "image": "https://i.ibb.co/0jZpYwS/speaker.png",
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "name": "Mechanical Keyboard",
-      "price": 4500,
+      "price": 4000,
       "category": "Accessories",
       "description": "Mechanical keyboard with customizable RGB keys.",
       "image": "https://i.ibb.co/j4nYF9m/keyboard.png",
