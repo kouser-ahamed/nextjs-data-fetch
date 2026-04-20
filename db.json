@@ -50,5 +50,63 @@
       "rating": 4.7,
       "stock": 8
     }
+    
+  ],
+   "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 350,
+      "category": "Fiction",
+      "rating": 4.7,
+      "stock": 12,
+      "image": "https://i.ibb.co/3k9mGxP/alchemist.jpg",
+      "description": "A philosophical story about following your dreams and destiny."
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 480,
+      "category": "Self Development",
+      "rating": 4.8,
+      "stock": 10,
+      "image": "https://i.ibb.co/7pK0s8H/atomic-habits.jpg",
+      "description": "A practical guide to building good habits and breaking bad ones."
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 420,
+      "category": "Finance",
+      "rating": 4.6,
+      "stock": 8,
+      "image": "https://i.ibb.co/YdKQw8q/richdad.jpg",
+      "description": "A book about financial literacy and smart money management."
+    },
+    {
+      "id": 4,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 390,
+      "category": "Productivity",
+      "rating": 4.5,
+      "stock": 9,
+      "image": "https://i.ibb.co/9w5Y0z9/deepwork.jpg",
+      "description": "Strategies for focused success in a distracted world."
+    },
+    {
+      "id": 5,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "price": 300,
+      "category": "Motivation",
+      "rating": 4.4,
+      "stock": 15,
+      "image": "https://i.ibb.co/6n5Qv3L/thinkgrowrich.jpg",
+      "description": "Classic personal development book about mindset and success."
+    }
   ]
 }
