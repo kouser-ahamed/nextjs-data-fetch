@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 2300,
+      "category": "Electronics",
+      "description": "High quality wireless headphones with noise cancellation.",
+      "image": "https://i.ibb.co/3Yp8K8F/headphone.png",
+      "rating": 4.5,
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 3200,
+      "category": "Electronics",
+      "description": "Smart watch with fitness tracking and notification support.",
+      "image": "https://i.ibb.co/ZYW3VTp/smartwatch.png",
+      "rating": 4.2,
+      "stock": 10
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse",
+      "price": 1200,
+      "category": "Accessories",
+      "description": "Ergonomic gaming mouse with RGB lighting.",
+      "image": "https://i.ibb.co/Wp6JwKQ/mouse.png",
+      "rating": 4.6,
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "price": 1800,
+      "category": "Electronics",
+      "description": "Portable bluetooth speaker with deep bass sound.",
+      "image": "https://i.ibb.co/0jZpYwS/speaker.png",
+      "rating": 4.3,
+      "stock": 12
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "price": 4500,
+      "category": "Accessories",
+      "description": "Mechanical keyboard with customizable RGB keys.",
+      "image": "https://i.ibb.co/j4nYF9m/keyboard.png",
+      "rating": 4.7,
+      "stock": 8
+    }
+  ]
+}
